@@ -1,0 +1,27 @@
+{
+  "name": "hashids-is-broken",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVMartin/hashids-is-broken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVMartin/hashids-is-broken/issues"
+  },
+  "homepage": "https://github.com/JVMartin/hashids-is-broken#readme",
+  "dependencies": {
+    "hashids": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.18",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3"
+  }
+}
